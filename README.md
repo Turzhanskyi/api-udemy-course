@@ -1,24 +1,5 @@
-# README
+# REST API with Ruby on Rails: The Complete Guide
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+###### Create complete REST API application using Ruby on Rails and Test Driven Development
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## [Udemy Course](https://www.udemy.com/course/ruby-on-rails-api-the-complete-guide)
